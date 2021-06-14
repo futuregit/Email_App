@@ -1,8 +1,9 @@
 import { React } from 'react';
 import './App.css';
+import EmailSummary from './components/email_summary/email_summary.component';
 
 const App = () => (
-  <div>We made it!</div>
+  <EmailSummary />
 );
   
 
